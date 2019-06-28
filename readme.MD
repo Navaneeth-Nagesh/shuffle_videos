@@ -1,4 +1,4 @@
-### TO run the file
+### To run the file
 
 ```sh
 $ node shuffle.js
